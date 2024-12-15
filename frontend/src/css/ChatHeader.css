@@ -1,0 +1,17 @@
+.exthead {
+  margin-top: 20px;
+  width: 100%;
+}
+.inhead {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.inhead > img {
+  margin: 0px 0px 0px 10px;
+}
+
+.inhead > p {
+  margin-left: 1rem;
+}

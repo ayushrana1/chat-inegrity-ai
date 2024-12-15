@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0%;
+  /* color: white; */
+  font-family: var(--font-family);
+  /* background: transparent; */
+}
+
+body {
+  color:whitesmoke;
+  background-color: var(--outer-color);
+  padding: 10%, 10%, 10%, 10%;
+  /* justify-items: center; */
+  align-items: end;
+  overflow: hidden;
+}
+:root {
+  --outer-color: #1f2323;
+  --background-color: #120e0e;
+  --selector-color: #8f00ff;
+  --chat-color: #303234;
+  --text-color: #d7eddb;
+  --font-family: "Montserrat", sans-serif;
+  --font-weight: 400;
+  --font-style: normal;
+  --font-size: medium;
+}

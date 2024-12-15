@@ -1,0 +1,34 @@
+.ext-name {
+  width: 30%;
+  margin-left: 0.5rem;
+  margin-right: 0rem;
+  margin-bottom: 0rem;
+  margin-top: 0.5rem;
+  border-right: 1px solid white;
+}
+.in-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.profile-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 20px 0px 0px;
+}
+
+.profile-details > input {
+  border-radius: 20px;
+  width: 60%;
+  height: 30px;
+  padding: 10px;
+  color: black;
+  border: none;
+}
+
+.line {
+  border: 1px solid white;
+  margin: 20px 0px 20px 0px;
+}
